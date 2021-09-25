@@ -38,7 +38,7 @@ SO THAT my website can handle large amounts of unstructured data
 ## Contributing
   ChunYu Chang
 ## Reference
-  1.remove Function is reference from:
+  1.remove Function is reference from:<br />
   https://github.com/bdamota/Social-Network-API <br />
   2.Class Moudles <br />
   https://github.com/mr91217/pizza-hunt<br />
