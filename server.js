@@ -12,6 +12,8 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/Social-Network-
   //   useFindAndModify: false,
   useNewUrlParser: true,
   useUnifiedTopology: true
+  /////// Remove options for Mongoose 6.0+
+
 });
 
 // Use this to log mongo queries being executed!
